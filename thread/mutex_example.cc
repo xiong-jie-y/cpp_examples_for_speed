@@ -2,6 +2,7 @@
 // 
 // The output should be 200000, but if you remove lock_guard, 
 // the output will be different.
+
 #include <iostream>
 #include <mutex>
 #include <thread>
